@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+
+nav{
+    background-color: black;
+    display: block;
+    height: 40px;
+}
+
+nav div{
+    display: inline-block;
+    width:100px;
+    height:40px;
+    background-color: aqua;
+}
+
+nav div a,nav div a:active, nav div a:hover{
+    text-decoration: none;
+    line-height: 2.5;
+}
+
+#ghost{
+    display: block;
+    width:100px;
+    height:10px;
+}
+
+.carousel-container{
+    position:relative;
+}
