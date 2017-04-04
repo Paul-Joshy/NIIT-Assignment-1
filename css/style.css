@@ -1,7 +1,14 @@
 body{
     text-align: center;
+    background-color: black
 }
 
+#logo{
+    max-width:150%;
+    max-height:150%;
+}
+
+/*
 nav{
     background-color: black;
     display: block;
@@ -19,6 +26,7 @@ nav div a,nav div a:active, nav div a:hover{
     text-decoration: none;
     line-height: 2.5;
 }
+*/
 
 #ghost{
     display: block;
